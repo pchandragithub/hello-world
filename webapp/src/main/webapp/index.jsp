@@ -22,6 +22,7 @@
     <br>
     <br>
 
+
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
@@ -36,5 +37,6 @@
    <h1> Thankyou, Happy Learning </h1>
    <h2> Modified by Chandra </h2>
   
-   <h1> New line added </h2>
+   <h1> New line added </h1>
+   <h1> Updated using ansible palybook </h1>
 </form>
